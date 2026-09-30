@@ -1,8 +1,6 @@
-# Student-Drop-out-Prediction
-
 # Student Dropout Prediction
 
-## Deskripsi
+## SISTEM PERINGATAN DINI UNTUK MEMPREDIKSI RISIKO PUTUS STUDI MAHASISWA SEBAGAI UPAYA MENDUKUNG PENDIDIKAN BERMUTU 
 
 Project ini merupakan penerapan Machine Learning untuk melakukan prediksi status akademik mahasiswa. Data yang digunakan berisi berbagai informasi mengenai mahasiswa yang kemudian dianalisis untuk memprediksi apakah mahasiswa termasuk dalam kategori **Dropout, Graduate, atau Enrolled**.
 
