@@ -42,6 +42,10 @@ Logistic Regression digunakan untuk melakukan klasifikasi status mahasiswa berda
 
 Decision Tree digunakan sebagai model klasifikasi kedua untuk melihat hasil prediksi berdasarkan pola dan fitur yang terdapat pada data.
 
+### 3. Random Forest
+
+Random Forest digunakan sebagai model klasifikasi ketiga yang menggabungkan beberapa Decision Tree untuk menghasilkan prediksi yang lebih akurat dan stabil berdasarkan pola pada data.
+
 ## Evaluasi Model
 
 Performa model dievaluasi menggunakan beberapa metrik, yaitu:
