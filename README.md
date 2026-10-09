@@ -1,4 +1,3 @@
-[README_revisi.md](https://github.com/user-attachments/files/33257765/README_revisi.md)
 # Student Dropout Prediction
 
 ## Sistem Peringatan Dini Risiko Putus Studi Mahasiswa untuk Mendukung SDG 4
