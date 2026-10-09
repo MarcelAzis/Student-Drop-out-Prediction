@@ -38,11 +38,7 @@ Model yang digunakan dalam project ini adalah:
 
 Logistic Regression digunakan untuk melakukan klasifikasi status mahasiswa berdasarkan data yang telah melalui proses preprocessing.
 
-### 2. Decision Tree
-
-Decision Tree digunakan sebagai model klasifikasi kedua untuk melihat hasil prediksi berdasarkan pola dan fitur yang terdapat pada data.
-
-### 3. Random Forest
+### 2. Random Forest
 
 Random Forest digunakan sebagai model klasifikasi ketiga yang menggabungkan beberapa Decision Tree untuk menghasilkan prediksi yang lebih akurat dan stabil berdasarkan pola pada data.
 
