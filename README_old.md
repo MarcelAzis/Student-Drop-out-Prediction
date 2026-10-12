@@ -9,7 +9,6 @@ Project ini juga dikaitkan dengan **SDG 4: Quality Education**, khususnya dalam 
 ## Tujuan
 
 Tujuan dari project ini adalah:
-
 - Melakukan analisis terhadap data mahasiswa.
 - Melakukan preprocessing pada data.
 - Membangun model Machine Learning untuk klasifikasi status mahasiswa.
