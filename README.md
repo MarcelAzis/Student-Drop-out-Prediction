@@ -24,7 +24,7 @@ Model dikembangkan menggunakan algoritma **Decision Tree** dan **Random Forest**
 ### Fitur-Fitur Utama yang Digunakan:
 * **Performa Akademik:** Jumlah mata kuliah diambil, lulus, dan nilai semester 1 & 2 (`Curricular units 1st/2nd sem`).
 * **Finansial & Bantuan:** Status kelancaran pembayaran SPP (`Tuition fees up to date`) dan penerima beasiswa (`Scholarship holder`).
-* **Demografi & Pendaftaran:** Nilai ujian masuk, usia saat mendaftar, kualifikasi/pendidikan orang tua, status pernikahan, dan tingkat pengangguran/inflasi daerah.
+* **Demografi & Pendaftaran:** Nilai ujian masuk dan usia saat mendaftar.
 
 ---
 
