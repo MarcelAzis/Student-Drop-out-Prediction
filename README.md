@@ -31,7 +31,7 @@ Model dikembangkan menggunakan algoritma **Decision Tree** dan **Random Forest**
 ## 🔍 Temuan Utama Exploratory Data Analysis (EDA)
 1. **Performa Akademik Semester 1:** Mahasiswa dengan status *Graduate* rata-rata meluluskan 6,23 mata kuliah di semester 1 dengan nilai rata-rata 12,64/20. Sementara mahasiswa *Dropout* hanya meluluskan rata-rata 2,55 mata kuliah dengan nilai rata-rata 7,26/20.
 2. **Status Pembayaran SPP (`Tuition fees`):** Mahasiswa yang menunggak pembayaran SPP memiliki tingkat *dropout* hingga **86.55%**, sedangkan mahasiswa yang pembayarannya lancar hanya memiliki tingkat *dropout* sebesar **24.74%**.
-3. **Penerima Beasiswa (`Scholarship holder`):** Penerima beasiswa memiliki angka kelulusan jauh lebih tinggi (**75.98%**) dibandingkan bukan penerima beasiswa (**41.32%**).
+3. **Penerima Beasiswa (`Scholarship holder`):** Penerima beasiswa memiliki angka kelulusan jauh lebih tinggi (**75.98%**) dibandingkan bukan penerima beasiswa (**41.32%**)..
 
 ---
 
